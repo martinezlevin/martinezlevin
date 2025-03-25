@@ -51,14 +51,12 @@
 ## 📈 My GitHub Stats  
 
 <div align="center">
-  <div style="display: flex; gap: 10px;">
-    <a href="https://github.com/martinezlevin">
-      <img src="https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="400">
-    </a>
-    <a href="https://github.com/martinezlevin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
-    </a>
-  </div>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=110195029" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110195029&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @martinezlevin" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110195029&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 </div>
 
 
