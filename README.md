@@ -29,7 +29,16 @@
 | [David Photofolio](https://david-photofolio.netlify.app/) | Professional photography portfolio with:<br>• Custom lightbox<br>• Category filters<br>• Scroll animations | HTML5, CSS3, JavaScript | [🔗 Visit](https://david-photofolio.netlify.app/) |
 
 ## 📈 My GitHub Stats
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=110195029&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=110195029&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@martinezlevin's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=110195029&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
@@ -41,9 +50,9 @@
 + ✔️ Verifiable mobile-first: 100/100 in Lighthouse for mobile
 + ✔️ Advanced SEO: Metatags, OpenGraph and optimized performance
 ```
-## 🌟 Connect with me
+## 🌟 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/martinezlevin/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/tuusuari](https://www.instagram.com/guillemartinezlevin/)o)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://tuportfolio.com](https://portfolio-guillermo-martinez.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinezlevin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guillemartinezlevin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-guillermo-martinez.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdmlevin@gmail.com)
