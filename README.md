@@ -87,7 +87,7 @@
   </a>
   <br />
   <a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank">
-    <img src="https://i.ibb.co/PzsjdfwS/portfolio-icon.png" alt="Portfolio" height="auto" width="50" />
+    <img src="https://i.ibb.co/N2KT9b4X/portfolio-icon.png" alt="Portfolio" height="auto" width="40" />
   </a>
   <br />
   <a href="mailto:gdmlevin@gmail.com" target="blank">
