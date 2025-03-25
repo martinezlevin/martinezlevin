@@ -33,12 +33,13 @@
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
-## 🔥 Valor Diferencial
+### 🔥 ¿Por qué trabajar conmigo?
 
 ```diff
-+ Código documentado y testeable
-+ Arquitecturas escalables (Microservicios, MVC)
-+ Enfoque mobile-first y SEO
++ ✔️ Código documentado línea por línea (ej: JSDoc en proyectos JavaScript)
++ ✔️ Arquitecturas limpias: MVC en [Soporte Técnico GM](https://soporte-tecnico-gm.netlify.app/)
++ ✔️ Mobile-first verificable: 100/100 en Lighthouse para móviles
++ ✔️ SEO avanzado: Metatags, OpenGraph y rendimiento optimizado
 ```
 ## 🌟 Conéctate conmigo
 
