@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Guillermo Martinez | FullStack Developer Freelancer
 
-🚀 **Specialized in E-commerce solutions and APIs**  
-*"Transforming complex requirements into scalable and maintainable code"*
+<p align="center">
+  <a href="https://github.com/martinezlevin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=785CE9&width=650&height=80&lines=¡Hola!+Soy+Guillermo+Martinez;Desarrollador+Frontend+con+Backend+Skills;Especialista+en+Interfaces+Responsivas;Experto+en+JavaScript+(React%2C+Node.js);Domino+APIs+REST+y+Integraciones+MP;✨+Pasión+por+el+código+limpio+y+eficiente">
+  </a>
+</p>
 
 ## 🛠️ Main Tech Stack
 
