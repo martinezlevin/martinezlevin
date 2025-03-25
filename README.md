@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://i.imgur.com/f21mxx1.jpg" style="width: 100%; height: auto; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16); border-radius: 8px;">
+<img src="https://i.imgur.com/XP0krDi.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16);">
 
 ## 🛠️ Tech Stack & Tools  
 
