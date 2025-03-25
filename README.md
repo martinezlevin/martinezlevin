@@ -62,20 +62,6 @@
 </a>
 </div>
 
-
-
-
-
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/martinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martinezlevin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/guillemartinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemartinezlevin/" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
 ---
 
 ## 🔥 Why Work With Me?  
@@ -95,3 +81,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guillemartinezlevin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-guillermo-martinez.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdmlevin@gmail.com)
+
+
+
+
+
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/martinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martinezlevin/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/guillemartinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemartinezlevin/" height="30" width="40" /></a>
+<a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe-alt.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="mailto:gdmlevin@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+
+
