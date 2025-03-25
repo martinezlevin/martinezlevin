@@ -48,6 +48,17 @@
 
 ---
 
+## 💼 Featured Projects  
+
+| Project | Description | Technologies | Demo |
+|---------|-------------|--------------|------|
+| **[Angie Ibañez - Psychology](https://angie-ibanez.netlify.app/)** | 🌿 **Psychologist Portfolio + Booking System**<br>📌 Services gallery<br>📌 Integrated contact form<br>📌 Calming, therapeutic design | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) | 🔗 [Visit](https://angie-ibanez.netlify.app/) |
+| **[Guillermo Martinez Portfolio](https://portfolio-guillermo-martinez.netlify.app/)** | 🎨 **Personal Dev Portfolio**<br>📌 Projects showcase<br>📌 Technical skills breakdown<br>📌 Custom CSS animations | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 🔗 [Visit](https://portfolio-guillermo-martinez.netlify.app/) |
+| **[Technical Support GM](https://soporte-tecnico-gm.netlify.app/)** | 🛠️ **IT Services Landing Page**<br>📌 Services catalog<br>📌 Functional contact form<br>📌 Mobile-first responsive design | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 🔗 [Visit](https://soporte-tecnico-gm.netlify.app/) |
+| **[David Photofolio](https://david-photofolio.netlify.app/)** | 📷 **Photography Portfolio**<br>📌 Custom lightbox<br>📌 Category filters<br>📌 Scroll animations | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 🔗 [Visit](https://david-photofolio.netlify.app/) |
+
+---
+
 ## 📈 My GitHub Stats  
 
 <div align="center">
