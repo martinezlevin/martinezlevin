@@ -22,11 +22,12 @@
 
 ## 💼 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [E-commerce con MP](#) | Plataforma completa con pasarela de pagos | Node.js, React, MercadoPago API |
-| [Sistema de Facturación](#) | API REST para gestión empresarial | Express, JWT, MongoDB |
-| [Landing Page Optimizada](#) | Conversión +35% en ventas | HTML5, CSS3, JavaScript |
+| Proyecto | Descripción | Tecnologías | Demo |
+|----------|-------------|-------------|------|
+| [Angie Ibañez - Psicología](https://angie-ibanez.netlify.app/) | **Portfolio profesional + sistema de agenda online** para psicóloga. Incluye:<br>• Galería de servicios<br>• Formulario de contacto integrado<br>• Diseño terapéutico con paleta calmante | HTML5, CSS3, JavaScript, Netlify Forms | [🔗 Visitar](https://angie-ibanez.netlify.app/) |
+| [Portfolio Guillermo Martinez](https://portfolio-guillermo-martinez.netlify.app/) | Sitio personal con:<br>• Sección de proyectos<br>• Detalle de habilidades técnicas<br>• Efectos CSS personalizados | HTML5, CSS3, JavaScript | [🔗 Visitar](https://portfolio-guillermo-martinez.netlify.app/) |
+| [Soporte Técnico GM](https://soporte-tecnico-gm.netlify.app/) | Landing page para servicios TI con:<br>• Catálogo de servicios<br>• Formulario operativo<br>• Diseño responsive móvil-first | HTML5, CSS3, JavaScript | [🔗 Visitar](https://soporte-tecnico-gm.netlify.app/) |
+| [David Photofolio](https://david-photofolio.netlify.app/) | Portfolio fotográfico profesional con:<br>• Lightbox personalizado<br>• Filtros por categorías<br>• Animaciones de scroll | HTML5, CSS3, JavaScript | [🔗 Visitar](https://david-photofolio.netlify.app/) |
 
 ## 📈 Mis Estadísticas GitHub
 
