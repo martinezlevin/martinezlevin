@@ -1,9 +1,9 @@
-# 👋 Hola, soy Guillermo Martinez | Freelancer FullStack JavaScript
+# 👋 Hi, I'm Guillermo Martinez | FullStack Developer Freelancer
 
-🚀 **Desarrollador especializado en soluciones E-commerce y APIs**  
-*"Transformo requerimientos complejos en código escalable y mantenible"*
+🚀 **Specialized in E-commerce solutions and APIs**  
+*"Transforming complex requirements into scalable and maintainable code"*
 
-## 🛠️ Stack Tecnológico Principal
+## 🛠️ Main Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,32 +16,32 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Especialidades
+### Specializations
 ![MercadoPago](https://img.shields.io/badge/MercadoPago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 
-## 💼 Proyectos Destacados
+## 💼 Featured Projects
 
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| [Angie Ibañez - Psicología](https://angie-ibanez.netlify.app/) | **Portfolio profesional + sistema de agenda online** para psicóloga. Incluye:<br>• Galería de servicios<br>• Formulario de contacto integrado<br>• Diseño terapéutico con paleta calmante | HTML5, CSS3, JavaScript, Netlify Forms | [🔗 Visitar](https://angie-ibanez.netlify.app/) |
-| [Portfolio Guillermo Martinez](https://portfolio-guillermo-martinez.netlify.app/) | Sitio personal con:<br>• Sección de proyectos<br>• Detalle de habilidades técnicas<br>• Efectos CSS personalizados | HTML5, CSS3, JavaScript | [🔗 Visitar](https://portfolio-guillermo-martinez.netlify.app/) |
-| [Soporte Técnico GM](https://soporte-tecnico-gm.netlify.app/) | Landing page para servicios TI con:<br>• Catálogo de servicios<br>• Formulario operativo<br>• Diseño responsive móvil-first | HTML5, CSS3, JavaScript | [🔗 Visitar](https://soporte-tecnico-gm.netlify.app/) |
-| [David Photofolio](https://david-photofolio.netlify.app/) | Portfolio fotográfico profesional con:<br>• Lightbox personalizado<br>• Filtros por categorías<br>• Animaciones de scroll | HTML5, CSS3, JavaScript | [🔗 Visitar](https://david-photofolio.netlify.app/) |
+| Project | Description | Technologies | Demo |
+|---------|-------------|--------------|------|
+| [Angie Ibañez - Psychology](https://angie-ibanez.netlify.app/) | **Professional portfolio + online booking system** for psychologist. Includes:<br>• Services gallery<br>• Integrated contact form<br>• Therapeutic design with calming palette | HTML5, CSS3, JavaScript, Netlify Forms | [🔗 Visit](https://angie-ibanez.netlify.app/) |
+| [Guillermo Martinez Portfolio](https://portfolio-guillermo-martinez.netlify.app/) | Personal site featuring:<br>• Projects section<br>• Technical skills breakdown<br>• Custom CSS effects | HTML5, CSS3, JavaScript | [🔗 Visit](https://portfolio-guillermo-martinez.netlify.app/) |
+| [Technical Support GM](https://soporte-tecnico-gm.netlify.app/) | IT services landing page with:<br>• Services catalog<br>• Functional contact form<br>• Mobile-first responsive design | HTML5, CSS3, JavaScript | [🔗 Visit](https://soporte-tecnico-gm.netlify.app/) |
+| [David Photofolio](https://david-photofolio.netlify.app/) | Professional photography portfolio with:<br>• Custom lightbox<br>• Category filters<br>• Scroll animations | HTML5, CSS3, JavaScript | [🔗 Visit](https://david-photofolio.netlify.app/) |
 
-## 📈 Mis Estadísticas GitHub
+## 📈 My GitHub Stats
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
-### 🔥 ¿Por qué trabajar conmigo?
+### 🔥 Why Work With Me?
 
 ```diff
-+ ✔️ Código documentado línea por línea (ej: JSDoc en proyectos JavaScript)
-+ ✔️ Arquitecturas limpias: MVC en [Soporte Técnico GM](https://soporte-tecnico-gm.netlify.app/)
-+ ✔️ Mobile-first verificable: 100/100 en Lighthouse para móviles
-+ ✔️ SEO avanzado: Metatags, OpenGraph y rendimiento optimizado
++ ✔️ Line-by-line documented code (e.g: JSDoc in JavaScript projects)
++ ✔️ Clean architectures: MVC in [Technical Support GM](https://soporte-tecnico-gm.netlify.app/)
++ ✔️ Verifiable mobile-first: 100/100 in Lighthouse for mobile
++ ✔️ Advanced SEO: Metatags, OpenGraph and optimized performance
 ```
-## 🌟 Conéctate conmigo
+## 🌟 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/martinezlevin/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/tuusuari](https://www.instagram.com/guillemartinezlevin/)o)
