@@ -50,7 +50,7 @@
 
 ## 📈 My GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
 ---
@@ -63,6 +63,9 @@
 + ✔️ Fully responsive: 100/100 in Lighthouse mobile audits
 + ✔️ Advanced SEO: Optimized metatags, OpenGraph, and performance
 ```
+
+---
+
 ## 🌟 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinezlevin/)
