@@ -18,7 +18,6 @@
 
 ### Especialidades
 ![MercadoPago](https://img.shields.io/badge/MercadoPago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ## 💼 Proyectos Destacados
 
