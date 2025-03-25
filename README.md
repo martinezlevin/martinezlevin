@@ -1,10 +1,12 @@
+<div align="center">
 <p align="center">
   <a href="https://github.com/martinezlevin">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00B1EA&width=800&height=90&lines=🚀+I'm+Guillermo+Martinez;💻+Frontend+Developer+with+Backend+Skills;🎨+Responsive+UI+Specialist;⚙️+JavaScript+Expert+(React%2C+Node.js);🌐+REST+APIs+%26+MercadoPago+Integrations;✨+Passion+for+clean+%26+efficient+code">
   </a>
 </p>
+</div>
 
-## 🛠️ Main Tech Stack
+### 🛠️ Main Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
