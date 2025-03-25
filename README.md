@@ -67,12 +67,12 @@
 
 ## 🔥 Why Work With Me?  
 
-```diff
+
 + ✔️ Well-documented code (e.g., JSDoc for JavaScript projects)
 + ✔️ Clean architecture: MVC in [Technical Support GM](https://soporte-tecnico-gm.netlify.app/)
 + ✔️ Fully responsive: 100/100 in Lighthouse mobile audits
 + ✔️ Advanced SEO: Optimized metatags, OpenGraph, and performance
-```
+
 
 ---
 
