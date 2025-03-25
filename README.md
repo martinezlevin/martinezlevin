@@ -6,7 +6,10 @@
 
 ---
 
-<img src="https://imgur.com/a/f21mxx1">
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/f21mxx1.jpg" alt="Banner" style="max-width: 100%; height: auto;">
+</div>
+
 
 ## 🛠️ Tech Stack & Tools  
 
