@@ -38,6 +38,17 @@
 
 </div>
 
+<div align="center">
+
+<h3>🛠️ Tech Stack & Tools</h3>
+
+### 🔧 Desarrollo
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=https://img.icons8.com/color/48/visual-studio-code-2019.png&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-005588?style=for-the-badge&logo=https://img.icons8.com/color/48/deepseek.png&logoColor=white&labelColor=005588)](https://deepseek.com)
+[![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=https://img.icons8.com/color/48/windows-10.png&logoColor=white&labelColor=0078D6)](https://www.microsoft.com/windows)
+
+</div>
+
 
 ## 💼 Featured Projects
 
