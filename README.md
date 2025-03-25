@@ -53,10 +53,10 @@
 <div align="center">
   <div style="display: flex; gap: 10px;">
     <a href="https://github.com/martinezlevin">
-      <img src="https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="400">
     </a>
     <a href="https://github.com/martinezlevin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
     </a>
   </div>
 </div>
