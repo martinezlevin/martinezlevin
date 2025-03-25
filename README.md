@@ -77,28 +77,20 @@
 
 ## 🌟 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinezlevin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guillemartinezlevin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-guillermo-martinez.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdmlevin@gmail.com)
-
-
-
-
 <p align="left">
   <a href="https://linkedin.com/in/martinezlevin/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-top: 10px;" />
   </a>
-  <br />
+  </br>
   <a href="https://instagram.com/guillemartinezlevin/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin-top: 10px;" />
   </a>
-  <br />
+  </br>
   <a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank">
-    <img src="https://i.ibb.co/PzsjdfwS/portfolio-icon.png" alt="Portfolio" height="40" width="40" />
+    <img src="https://i.ibb.co/PzsjdfwS/portfolio-icon.png" alt="Portfolio" height="auto" width="50" style="margin-top: 5px; margin-left: -5px;" />
   </a>
-  <br />
+  </br>
   <a href="mailto:gdmlevin@gmail.com" target="blank">
-    <img src="https://i.ibb.co/JRtnkg79/gmail-icon.png" alt="Gmail" height="35" width="30" />
+    <img src="https://i.ibb.co/JRtnkg79/gmail-icon.png" alt="Gmail" height="40" width="40" style="margin-top: 1px;" />
   </a>
 </p>
