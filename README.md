@@ -28,10 +28,10 @@
 | [Sistema de Facturación](#) | API REST para gestión empresarial | Express, JWT, MongoDB |
 | [Landing Page Optimizada](#) | Conversión +35% en ventas | HTML5, CSS3, JavaScript |
 
-## 📈 Mis Estadísticas
+## 📈 Mis Estadísticas GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunombre&show_icons=true&theme=radical)](https://github.com/martinezlevin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunombre&layout=compact&theme=radical)](https://github.com/martinezlevin)
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
 ## 🔥 Valor Diferencial
 
