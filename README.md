@@ -78,16 +78,33 @@
 ## 🌟 Connect With Me
 
 
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/martinezlevin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
+    <td>&nbsp;&nbsp;&nbsp;</td> <!-- Espacio entre los íconos -->
+    <td><a href="https://instagram.com/guillemartinezlevin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a></td>
+    <td>&nbsp;&nbsp;&nbsp;</td> <!-- Espacio entre los íconos -->
+    <td><a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank"><img src="https://i.ibb.co/N2KT9b4X/portfolio-icon.png" alt="Portfolio" height="auto" width="40" /></a></td>
+    <td>&nbsp;&nbsp;&nbsp;</td> <!-- Espacio entre los íconos -->
+    <td><a href="mailto:gdmlevin@gmail.com" target="blank"><img src="https://i.ibb.co/JRtnkg79/gmail-icon.png" alt="Gmail" height="40" width="40" /></a></td>
+  </tr>
+</table>
+
+
+
 <p align="left">
   <a href="https://linkedin.com/in/martinezlevin/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  <br />
   <a href="https://instagram.com/guillemartinezlevin/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
+  <br />
   <a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank">
     <img src="https://i.ibb.co/N2KT9b4X/portfolio-icon.png" alt="Portfolio" height="auto" width="40" />
   </a>
+  <br />
   <a href="mailto:gdmlevin@gmail.com" target="blank">
     <img src="https://i.ibb.co/JRtnkg79/gmail-icon.png" alt="Gmail" height="40" width="40" />
   </a>
