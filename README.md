@@ -6,6 +6,8 @@
 
 ---
 
+<img src="https://imgur.com/a/f21mxx1">
+
 ## 🛠️ Tech Stack & Tools  
 
 ### 🎨 Frontend Development  
