@@ -89,7 +89,7 @@
 
 <p align="start">
   <a href="https://linkedin.com/in/martinezlevin/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Espacio entre íconos -->
   <a href="https://instagram.com/guillemartinezlevin/" target="blank">
@@ -97,7 +97,7 @@
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Espacio entre íconos -->
   <a href="https://portfolio-guillermo-martinez.netlify.app/" target="blank">
-    <img src="https://i.ibb.co/PzsjdfwS/portfolio-icon.png" alt="Portfolio" height="40" width="40" />
+    <img src="https://i.ibb.co/PzsjdfwS/portfolio-icon.png" alt="Portfolio" height="35" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Espacio entre íconos -->
   <a href="mailto:gdmlevin@gmail.com" target="blank">
