@@ -6,9 +6,8 @@
 
 ---
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/f21mxx1.jpg" alt="Banner" style="max-width: 100%; height: auto;">
-</div>
+<img src="https://www.canva.com/design/DAGixd175To/6_-XnfJfQr0_4rUzD0qStg/view?embed" style="width: 100%; height: auto; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16); border-radius: 8px;">
+
 
 
 ## 🛠️ Tech Stack & Tools  
