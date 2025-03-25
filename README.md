@@ -29,6 +29,12 @@
 | [David Photofolio](https://david-photofolio.netlify.app/) | Professional photography portfolio with:<br>• Custom lightbox<br>• Category filters<br>• Scroll animations | HTML5, CSS3, JavaScript | [🔗 Visit](https://david-photofolio.netlify.app/) |
 
 ## 📈 My GitHub Stats
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
+
+### 👨🏻‍💻 My recent works
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=110195029&activity_type=all" target="_blank" style="display: block" align="center">
@@ -38,9 +44,16 @@
   </picture>
 </a>
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=110195029" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110195029&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @martinezlevin" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110195029&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=radical&hide_title=true)](https://github.com/martinezlevin)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezlevin&layout=compact&theme=radical&hide_border=true)](https://github.com/martinezlevin)
 
 ### 🔥 Why Work With Me?
 
