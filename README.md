@@ -67,22 +67,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinezlevin&label=Profile%20views&color=0e75b6&style=flat" alt="martinezlevin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinezlevin" alt="martinezlevin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martinezlevin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/guillemartinezlevin/" target="blank"><img
-
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinezlevin&show_icons=true&locale=es&layout=compact" alt="martinezlevin" /></p>
-
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&locale=es" alt="martinezlevin" /></p>
-
-<p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=martinezlevin&" alt="martinezlevin" /></p>
+<a href="https://instagram.com/https://www.instagram.com/guillemartinezlevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemartinezlevin/" height="30" width="40" /></a>
+</p>
 
 
 
