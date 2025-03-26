@@ -77,6 +77,7 @@
 
 ## 🌟 Connect With Me
 
+<div align="center">
 <table border="0">
   <tr>
     <td><a href="https://linkedin.com/in/martinezlevin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
@@ -88,7 +89,7 @@
     <td><a href="mailto:gdmlevin@gmail.com" target="blank"><img src="https://i.ibb.co/JRtnkg79/gmail-icon.png" alt="Gmail" height="40" width="40" /></a></td>
   </tr>
 </table>
-
+</div>
 
 
 
