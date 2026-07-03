@@ -6,9 +6,7 @@
 
 ---
 
-<img src="https://i.imgur.com/EiBUW1s.jpg" 
-     alt="Banner" 
-     style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16);">
+[![Guillermo Martinez Portfolio](https://i.imgur.com/EiBUW1s.jpg)](https://guillemartinez.netlify.app/)
 
 ## 🛠️ Tech Stack & Tools  
 
