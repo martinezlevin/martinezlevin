@@ -87,14 +87,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinezlevin&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Why Work With Me?  
 
 + ✔️ **Well-documented code** → Uso de JSDoc y comentarios claros para facilitar mantenimiento y colaboración.  
