@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://imgur.com/a/I4ajN8T" 
+<img src="[https://imgur.com/a/I4ajN8T](https://imgur.com/a/I4ajN8T#EiBUW1s)" 
      alt="Banner" 
      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16);">
 
