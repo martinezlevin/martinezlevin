@@ -6,7 +6,9 @@
 
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/I4ajN8T"><a href="//imgur.com/I4ajN8T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/EiBUW1s.jpg" 
+     alt="Banner" 
+     style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16);">
 
 ## 🛠️ Tech Stack & Tools  
 
